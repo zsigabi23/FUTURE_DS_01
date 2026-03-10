@@ -115,20 +115,3 @@ A scatter plot used to analyze the relationship between discount levels and prof
 **Zolile Sigabi**
 
 Aspiring Data Analyst with experience in **Power BI, SQL, and Excel**, focused on transforming raw data into actionable insights that support business decision-making.
-
----
-
-💡 Tip for GitHub:
-Upload a screenshot of your dashboard and name it:
-
-dashboard_preview.png
-
-Then the preview image will show automatically in the README.
-
-If you want, I can also help you make your GitHub portfolio look much stronger by showing you:
-
-The perfect repo structure data analysts use
-
-How to add Power BI screenshots properly
-
-How to make your projects look like senior analyst portfolios.
